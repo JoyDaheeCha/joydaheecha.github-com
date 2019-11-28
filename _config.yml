@@ -18,7 +18,8 @@ minimal_mistakes_skin    : "dirt"
 locale                   : "en-US"
 title                    : "Dahee Cha, Programmer"
 title_separator          : "-"
-subtitle                 : Arise my darling, my beautiful one, and come with me. Song of Songs 2:10
+subtitle                 : Arise my darling, my beautiful one, and come with me.   
+Song of Songs 2:10
 name                     : "Dahee Joy Cha"
 description              : "Dahee Cha's blog"
 url                      : "https://joydaheecha.github.io"
@@ -108,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Dahee Cha (Joy)"
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : "./assets/images/avatar.jpg"
   bio              : "A programmer pursuing better world for all children"
   location         : "Seoul, South Korea"
   links:
