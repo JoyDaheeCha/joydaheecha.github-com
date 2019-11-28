@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dahee Cha, Progammer pursuing better education"
+title                    : "Dahee Cha, Programmer"
 title_separator          : "-"
-subtitle                 : All children are deserved to be loved, educated and dream for their future.
-name                     : "Dahee Cha"
-description              : "An amazing website."
+subtitle                 : Arise my darling, my beautiful one, and come with me. Song of Songs 2:10
+name                     : "Dahee Joy Cha"
+description              : "Dahee Cha's blog"
 url                      : "https://joydaheecha.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dahee Joy Cha"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Dahee Cha (Joy)"
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "A programmer pursuing better world for all children"
   location         : "Seoul, South Korea"
-  email            :
+  email            : daheecha0612@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
