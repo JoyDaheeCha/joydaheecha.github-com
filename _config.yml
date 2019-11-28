@@ -108,10 +108,9 @@ analytics:
 # Site Author
 author:
   name             : "Dahee Cha (Joy)"
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : "./assets/images/avatar.jpg"
   bio              : "A programmer pursuing better world for all children"
   location         : "Seoul, South Korea"
-  email            : daheecha0612@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
